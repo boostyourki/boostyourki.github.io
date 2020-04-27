@@ -1,1 +1,1 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oJnF5VxTO5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <img src="https://i.postimg.cc/cJKqnDG8/87098524-3068731769845701-2672899169256996864-n.png" alt="Boost Your KI"> 
