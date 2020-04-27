@@ -1,4 +1,4 @@
-# re4ux.github.io
+# boostyourki.github.io
 ---
 permalink: /index.html
 ---
