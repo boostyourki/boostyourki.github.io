@@ -15,7 +15,10 @@
 <img border="0" alt="Pirkti" src="https://i.postimg.cc/c1jPpp2g/pirkti.png" class="center">
 </a>
 
+<b>Komentarai:</b>
 
+<i>Arijus</i> - labai geras gėrimas.
+<i>Aronas</i> - pritariu 10/10.
 
  
  
