@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About
+title: Apie
 permalink: /about/
 ---
 
-This website is meant for tutorials for blueprints I've made.
-You can contact me at evaldas.budreckis@gmail.com
+Už sveikatos sutrikimus neatsakome.
