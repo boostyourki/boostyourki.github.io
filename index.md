@@ -17,8 +17,8 @@
 
 <b>Komentarai:</b>
 
-<i>Arijus</i> - labai geras gėrimas.
-<i>Aronas</i> - pritariu 10/10.
+<p><i>Arijus</i> - labai geras gėrimas.</p>
+<p><i>Aronas</i> - pritariu 10/10.</p>
 
  
  
